@@ -7,7 +7,7 @@ import torch
 
 """Functions for downloading opennyai ner models."""
 PIP_INSTALLER_URLS = {
-    "en_legal_ner_trf": "https://huggingface.co/opennyaiorg/en_legal_ner_trf/resolve/main/en_legal_ner_trf-any-py3-none-any.whl",
+    "en_legal_ner_trf": "https://huggingface.co/opennyaiorg/en_legal_ner_trf/resolve/b30824f5520719993d22e3d023bceb0ae4a2e2a7/en_legal_ner_trf-3.2.0-py3-none-any.whl",
     "en_legal_ner_sm": "https://huggingface.co/opennyaiorg/en_legal_ner_sm/resolve/main/en_legal_ner_sm-any-py3-none-any.whl",
     "en_core_web_md": "https://huggingface.co/opennyaiorg/en_legal_ner_trf/resolve/main/STOCK_SPACY_MODELS/en_core_web_md-3.2.0-py3-none-any.whl",
     "en_core_web_sm": "https://huggingface.co/opennyaiorg/en_legal_ner_trf/resolve/main/STOCK_SPACY_MODELS/en_core_web_sm-3.2.0-py3-none-any.whl",
